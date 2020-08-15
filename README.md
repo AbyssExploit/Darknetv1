@@ -6,6 +6,6 @@ Installer web kit v1
 - apt install git
 - git clone https://github.com/AbyssExploit/Darknetv1
 - cd Darknet1
-- unzip deface
+- unzip darknetv1
 - bash setup.sh
 - bash darknet.sh
