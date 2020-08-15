@@ -1,5 +1,7 @@
 #!/system/xbin/bash
 
+figlet Abyss Walker | lolcat
+
 apt install bash -y
 apt install python -y
 apt install figlet -y
