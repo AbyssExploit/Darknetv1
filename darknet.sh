@@ -57,7 +57,9 @@ echo -e "13.Tools NMAP " | lolcat
 echo "__________________________________"
 echo -e "14.Tools Vulnx (Bot Auto Shell Injector)" | lolcat
 echo "__________________________________"
-echo -e "15.Masih Kurang? Klik Ini" | lolcat
+echo -e "15.Tools Firecrack " | lolcat
+echo "__________________________________"
+echo -e "16.Masih Kurang? Klik Ini" | lolcat
 echo ""
 echo -e "0.Keluar" | lolcat
 echo ""
@@ -262,6 +264,18 @@ chmod +x install.sh
 fi
 
 if [ $asu = 15 ] || [ $asu = 15 ]
+then
+figlet Darknet | lolcat
+echo "Untuk Tutorial Silahkan Comment Atau Join Grup"
+sleep 3
+git clone https://github.com/Ranginang67/Firecrack
+mv Firecrack $HOME
+cd $HOME/Firecrack
+pip2 install -r requirements.txt
+python2 firecrack.py
+fi
+
+if [ $asu = 16 ] || [ $asu = 16 ]
 then
 figlet Darknet | lolcat
 echo "Untuk Tutorial Silahkan Comment Atau Join Grup"
