@@ -49,7 +49,7 @@ echo -e "9.Tools Admin Login Finder " | lolcat
 echo "__________________________________"
 echo -e "10.Tools Vuln Search " | lolcat
 echo "__________________________________"
-echo -e "11.Tools Google Dork 2 (DDOS) " | lolcat
+echo -e "11.Tools Google Dork 2 " | lolcat
 echo "__________________________________"
 echo -e "12.Tools AstraNMAP " | lolcat
 echo "__________________________________"
