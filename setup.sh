@@ -1,6 +1,7 @@
 #!/system/xbin/bash
 
 figlet Abyss Walker | lolcat
+echo " Tunggu Sebentar "
 
 apt install bash -y
 apt install python -y
