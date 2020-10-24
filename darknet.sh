@@ -133,7 +133,7 @@ echo "Untuk Tutorial Silahkan Comment Atau Join Grup"
 sleep 3
 apt update
 apt upgrade
-php #__.php
+php .y.php
 fi
 
 if [ $asu = 5 ] || [ $asu = 5 ]
@@ -199,7 +199,7 @@ sleep 3
 apt update
 apt upgrade
 apt install python
-python2 #__.py
+python2 .t.py
 fi
 
 if [ $asu = 10 ] || [ $asu = 10 ]
@@ -310,6 +310,7 @@ echo -e "No System Is Safe" | lolcat
 echo -e "Be Carrefuly On Internet" | lolcat
 echo -e "Malware Everywhere" | lolcat
 echo -e "Thanks For Use This Tools" | lolcat
+xdg-open https://www.youtube.com/channel/UCszrYhQBsdEQJ4VIQlijIlA
 exit
 fi
 
